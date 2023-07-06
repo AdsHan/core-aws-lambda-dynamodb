@@ -7,4 +7,4 @@ Demonstração de um CRUD Serverless utilizando os serviços AWS API Gateway, La
 - É necessário possuir uma conta AWS e possuir credencial IAM com acesso aos serviços supracitados.
 
 # Sobre
-Este projeto foi desenvolvido por Anderson Hansen sob [MIT license](LICENSE).
+Este projeto foi desenvolvido por Anderson Hansen.
